@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/horizon-engine/binaryen.js.git"
+    "url": "https://github.com/play-horizon/binaryen.js.git"
   },
   "keywords": [
     "webassembly",
